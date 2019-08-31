@@ -1,2 +1,8 @@
 Git HelloWorld
 temp
+
+Administrator@MS-20181108SEDO MINGW64 /h/repositories/repo1 (GitLearn)
+$ git remote add origin https://github.com/Shan589/repo1.git
+
+Administrator@MS-20181108SEDO MINGW64 /h/repositories/repo1 (GitLearn)
+$ git push -u origin master
